@@ -14,4 +14,5 @@ sources:
   tables:
     - name: flights
     - name: our_5_airports
-    #- name: regions
+    - name: regions
+   
